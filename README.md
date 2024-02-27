@@ -6,7 +6,7 @@
 
   - [Excel Projects](https://github.com/sneharautela/excel)
   - [Power Bi Projects](https://github.com/sneharautela/powerbi)
-  - [tableau Projects](https://github.com/sneha-rautela/tableau?tab=readme-ov-file#world-happiness-project)
+  - [tableau Projects](https://sneha-rautela.github.io/tableau/)
   - [R Projects]( https://sneha-rautela.github.io/sneha-s_portfolio/)
   - [SQL Projects](https://github.com/sneharautela/SQL)
   - [Python Projects](https://github.com/sneharautela/python)
