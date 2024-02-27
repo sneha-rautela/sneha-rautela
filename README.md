@@ -6,7 +6,7 @@
 
   - [Excel Projects](https://github.com/sneharautela/excel)
   - [Power Bi Projects](https://github.com/sneharautela/powerbi)
-  - [tableau Projects](https://github.com/sneharautela/tableau)
+  - [tableau Projects](https://github.com/sneha-rautela/tableau/tree/main)
   - [R Projects](https://github.com/sneharautela/R)
   - [SQL Projects](https://github.com/sneharautela/SQL)
   - [Python Projects](https://github.com/sneharautela/python)
