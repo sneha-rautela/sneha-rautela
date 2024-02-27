@@ -18,7 +18,7 @@
 
 <h2>📄 Certifications:</h2>
 
-- [Google Data Analytics](https://www.github.com/certificates)
+- [Google Data Analytics](https://sneha-rautela.github.io/sneha-rautela_certificate/)
 
 
 <h2> 🤳 Connect with me:</h2>
