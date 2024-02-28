@@ -11,7 +11,7 @@
   - [SQL Projects](https://github.com/sneharautela/SQL)
   - [Python Projects](https://github.com/sneharautela/python)
 - <b>Virtual Internship Projects</b>
-  - [Virtual Internship (TATA)](https://github.com/sneharautela/tata)
+  - [Virtual Internship (TATA)](https://sneha-rautela.github.io/tata/)
   - [Virtual Internship (Accenture)](https://github.com/sneharautela/accenture)
 
 
