@@ -7,7 +7,7 @@
   - [Excel Projects](https://github.com/sneharautela/excel)
   - [Power Bi Projects](https://github.com/sneharautela/powerbi)
   - [tableau Projects](https://sneha-rautela.github.io/tableau/)
-  - [R Projects]( https://sneha-rautela.github.io/sneha-s_portfolio/)
+  - [R Projects](https://sneha-rautela.github.io/R_programming/)
   - [SQL Projects](https://github.com/sneharautela/SQL)
   - [Python Projects](https://github.com/sneharautela/python)
 - <b>Virtual Internship Projects</b>
