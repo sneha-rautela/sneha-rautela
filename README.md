@@ -12,7 +12,7 @@
   - [Python Projects](https://github.com/sneharautela/python)
 - <b>Virtual Internship Projects</b>
   - [Virtual Internship (TATA)](https://sneha-rautela.github.io/tata/)
-  - [Virtual Internship (Accenture)](https://github.com/sneharautela/accenture)
+  - [Virtual Internship (Accenture)](https://sneha-rautela.github.io/accenture/)
 
 
 
