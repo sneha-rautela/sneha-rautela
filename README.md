@@ -4,7 +4,7 @@
 
 <h2>👩‍💻 Data Analytics Projects:</h2>
 
-  - [Excel Project](https://github.com/sneharautela/excel)
+  
   - [Power Bi Project](https://sneha-rautela.github.io/powerbi/)
   - [tableau Project](https://sneha-rautela.github.io/tableau/)
   - [R Project](https://sneha-rautela.github.io/R_programming/)
