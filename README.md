@@ -4,12 +4,12 @@
 
 <h2>👩‍💻 Data Analytics Projects:</h2>
 
-  - [Excel Projects](https://github.com/sneharautela/excel)
-  - [Power Bi Projects](https://github.com/sneharautela/powerbi)
-  - [tableau Projects](https://sneha-rautela.github.io/tableau/)
-  - [R Projects](https://sneha-rautela.github.io/R_programming/)
-  - [SQL Projects](https://github.com/sneharautela/SQL)
-  - [Python Projects](https://github.com/sneharautela/python)
+  - [Excel Project](https://github.com/sneharautela/excel)
+  - [Power Bi Project](https://github.com/sneharautela/powerbi)
+  - [tableau Project](https://sneha-rautela.github.io/tableau/)
+  - [R Project](https://sneha-rautela.github.io/R_programming/)
+  - [SQL Project](https://sneha-rautela.github.io/SQL/)
+  
 - <b>Virtual Internship Projects</b>
   - [Virtual Internship (TATA)](https://sneha-rautela.github.io/tata/)
   - [Virtual Internship (Accenture)](https://sneha-rautela.github.io/accenture/)
